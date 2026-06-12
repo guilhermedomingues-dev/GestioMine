@@ -11,3 +11,4 @@
 **Stack:**
 - Front-End: Flutter
 - Back-End: Flask
+- Banco de dados: SQLAlchemy
