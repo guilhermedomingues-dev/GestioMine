@@ -9,4 +9,5 @@
 
 ---
 **Stack:**
-- 
+- Front-End: Flutter
+- Back-End: Flask
