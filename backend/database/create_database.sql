@@ -1,0 +1,10 @@
+CREATE DATABASE IF NOT EXISTS gestiomine;
+
+USE gestiomine;
+
+CREATE TABLE empresa (
+ id INT AUTO_INCREMENT PRIMARY KEY,
+ nome VARCHAR(100) NOT NULL,
+ cnpj VARCHAR(18),
+ email VARCHAR(100)
+);
