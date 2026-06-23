@@ -11,7 +11,7 @@
 **Stack:**
 - Front-End: Flutter
 - Back-End: Flask
-- Banco de dados: SQLAlchemy
+- Banco de dados: MySQL
 
 ---
 **O que é a GestioMine?**
